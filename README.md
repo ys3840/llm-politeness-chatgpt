@@ -267,12 +267,12 @@ This script will:
 
 ---
 
-## 9. Authors & Course Information
+## 9. Authors 
 
 - Arabella Wang  
 - Claire Sun  
 - Gary Zheng  
 
-**Columbia University – Generative AI**  
+**Columbia Business School – Generative AI**  
 Instructor: Tianyi Peng  
 Semester: Fall 2025
