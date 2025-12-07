@@ -269,9 +269,9 @@ This script will:
 
 ## 9. Authors 
 
-- Arabella Wang  
 - Claire Sun  
 - Gary Zheng  
+- Arabella Wang  
 
 **Columbia Business School – Generative AI**  
 Instructor: Tianyi Peng  
